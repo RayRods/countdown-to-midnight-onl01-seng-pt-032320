@@ -9,7 +9,7 @@ def countdown(number)
   number -= 1 
 if number == 10
   puts "HAPPY NEW YEAR!"
-
+end
 end
 
   
